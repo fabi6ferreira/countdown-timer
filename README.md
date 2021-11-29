@@ -1,5 +1,7 @@
 # countdown-timer
 
+![screenshot](./screenshot.jpeg)
+
 ## 💽 Installation
 ## Run
 `open index.html`
