@@ -9,7 +9,6 @@ clone repo
 Tips for v1.0
 
 # Run
-```bash
 open index.html
 
 ## ⌨️ Development
