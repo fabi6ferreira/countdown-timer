@@ -1,11 +1,6 @@
 # countdown-timer
 
 ## 💽 Installation
-
-```bash
-# Install
-clone repo
-```
 ## Run
 `open index.html`
 
