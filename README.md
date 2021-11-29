@@ -5,9 +5,10 @@
 ```bash
 # Install
 clone repo
-
+```
+```bash
 Tips for v1.0
-
+```
 # Run
 open index.html
 
