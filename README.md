@@ -17,6 +17,6 @@ open index.html
 git clone git@github.com:fabi6ferreira/countdown-time.git
 ```
 
-After building, the application will be found in the project's `release` directory.
+After building, the application will be opened on your `default browser`.
 
-### @Fábio Ferreira
+## @Fábio Ferreira
