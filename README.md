@@ -2,8 +2,6 @@
 
 ## 💽 Installation
 
-Download from [GitHub Releases](https://github.com/agalwood/Motrix/releases) and install it.
-
 ```bash
 # Install
 clone repo
@@ -11,7 +9,7 @@ clone repo
 Tips for v1.0
 
 # Run
-```
+```bash
 open index.html
 
 ## ⌨️ Development
